@@ -1,4 +1,4 @@
-package com.example.myapplicationexp2;
+package com.example.exp2graphicprimitives;
 
 import android.os.Bundle;
 
